@@ -1,5 +1,4 @@
-# Project 1 - Lidar Object Detection
-
+# LIDAR-data-processing-p1-udacity-sensorfusion
 <img src="media/gif.gif" width="700" height="400" />
 
 ## Software User
@@ -33,4 +32,3 @@ The project includes four important sections to demonstrate object detection pip
 ```
 git clone https://github.com/udacity/SFND_Lidar_Obstacle_Detection.git
 ```
-# LIDAR-data-processing-p1-udacity-sensorfusion
